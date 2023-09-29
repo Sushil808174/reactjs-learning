@@ -1,2 +1,2 @@
 # React JS - Learning
-### All React js small projects
+### All React js small projects are there.
